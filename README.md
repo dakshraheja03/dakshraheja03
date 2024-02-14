@@ -1,6 +1,5 @@
-<img width="1834" alt="Make your README" src="https://github.com/dakshraheja03/dakshraheja03/assets/94824966/3224f46c-0243-4f9d-a42f-9e3dab6e1e21"><h1 align="center">Hi 👋, I'm Daksh Raheja</h1>
+<h1 align="center">Hi 👋, I'm Daksh Raheja</h1>
 <div align="center"> <img src="https://github.com/dakshraheja03/dakshraheja03/assets/94824966/4e7c72bb-059b-4739-82ed-5152a1698467"> </div>
-<h3 align="center">A passionate full stack developer from India</h3>
 
 - 🔭 I’m currently working on **Deep Learning Projects**
 
