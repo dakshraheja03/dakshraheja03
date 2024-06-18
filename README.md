@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python and Deep Learning Algorithms**
 
-- 💬 Ask me about **React, Express, Data Structures and Algos**
+- 💬 Ask me about **React, Express,SpringBoot, Data Structures and Algos**
 
 - 📫 How to reach me **dakshraheja2003@gmail.com**
 
